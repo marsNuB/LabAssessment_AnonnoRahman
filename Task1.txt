@@ -1,0 +1,1 @@
+We use Git commit to mention the changes that have been made in the code for the other developers to see.
